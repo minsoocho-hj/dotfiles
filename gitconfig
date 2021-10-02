@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = khg04170@gmail.com
+	name = minsoo cho
